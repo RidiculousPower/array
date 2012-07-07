@@ -22,7 +22,7 @@ Event-Hooked Arrays ensure that all method calls go through common points so tha
 
 All Event-Hooked Arrays respond to #initialize( configuration_instance = nil, *args ), where *args is passed to Array#initialize.
 
-* <a href="https://github.com/RidiculousPower/array-hooked">Array::Hooked</a> (provided by <a href="https://rubygems.org/gems/array-hooked">Array::Hooked</a>array-hooked</a>)
+* <a href="https://github.com/RidiculousPower/array-hooked">Array::Hooked</a> (provided by <a href="https://rubygems.org/gems/array-hooked">array-hooked</a>)
 * <a href="https://github.com/RidiculousPower/array-sorted">Array::Sorted</a> (provided by <a href="https://rubygems.org/gems/array-sorted">array-sorted</a>)
 * <a href="https://github.com/RidiculousPower/array-unique">Array::Unique</a> (provided by <a href="https://rubygems.org/gems/array-unique">array-unique</a>)
 * <a href="https://github.com/RidiculousPower/array-sorted-unique">Array::Sorted::Unique</a> (provided by <a href="https://rubygems.org/gems/array-sorted-unique">array-sorted-unique</a>)
